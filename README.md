@@ -11,8 +11,8 @@
 - `CommandDistributor`：按命令把消息分出去
 - `@ActionMethod`、`@ActionPara`、`@HasActionMethod`：把方法和网络动作标出来
 
-源码在 `clientserver简单实现/src`，核心包 `com.mec.CS_Frame_Work`。目录是当时的 Eclipse 工程，没有 Maven 或 Gradle。
+源码在 `mini-cs-framework/src`，核心包 `com.mec.CS_Frame_Work`。目录是当时的 Eclipse 工程，没有 Maven 或 Gradle。
 
 ## 状态
 
-学习代码，源码按最初上传的样子保留。仓库曾用名 `easyCSFrameWork`，旧地址会重定向到这里。
+学习代码，Java 包名和实现按最初上传的样子保留。仓库曾用名 `easyCSFrameWork`，旧地址会重定向到这里。
